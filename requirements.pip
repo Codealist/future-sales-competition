@@ -1,0 +1,3 @@
+wheel
+git+https://git@github.com/Codealist/dshortcuts.git#egg=dshortcuts
+
